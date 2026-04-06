@@ -26,13 +26,13 @@
 <br>
 <br>
       
-<div align="center">
+<!-- <div align="center">
   <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=choiieog&hide_border=true&show_icons=true&rank_icon=github&title_color=ccfbff&icon_color=ccfbff&text_color=fff&bg_color=0d1117">
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choiieog&layout=compact&hide_border=true&title_color=ccfbff&text_color=fff&bg_color=0d1117">
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choiieog&theme=zenburn"/>
-</div>
+</div> -->
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
