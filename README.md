@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ccfbff&width=900&size=22&center=true&lines=I+am+from+Viet+Nam;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
+<!-- <br> -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/c h o i-black" />
@@ -33,6 +33,8 @@
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choiieog&theme=zenburn"/>
 </div> -->
+<br>
+<br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
