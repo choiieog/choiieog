@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=21&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=21&section=header"/>
+<br> -->
 <br>
-
 <div align="center">
   <img align="center" height="150" src="https://github.com/user-attachments/assets/1642f9ca-40a8-4f6c-85f2-20a98d5c31ff" />
 </div>
@@ -13,11 +13,11 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ccfbff&width=900&size=22&center=true&lines=I+am+from+Viet+Nam;Be+welcome!" alt="Typing SVG"/>
-</div>
+</div> -->
 
-<!-- <br> -->
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c h o i-black" />
@@ -102,4 +102,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=21&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=21&section=footer"/> -->
